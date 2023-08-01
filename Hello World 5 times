@@ -1,0 +1,26 @@
+#Print Hello World 5 times
+
+#Basic Print
+print("Hello, World!")
+
+#By assigning variable
+Intro = "Hello, World!"
+print("Hello, World!")
+
+#By using For Loop
+myWorld = ["Hello, World!"]
+
+for x in myWorld:
+    print(x)
+
+#By Separation
+hello = "Hello"
+world = "World"
+print(hello, world,  end= "!")    
+
+print("\n")
+#By String Concatenation
+ 
+a = "Hello"
+b = "World"
+print(a + " " + b)
